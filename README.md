@@ -1,7 +1,7 @@
 
 # CRYPTO CANVAS - The Ultimate Image Colorizer
 
-Welcome to the Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
+Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
 ## Introduction
 
@@ -41,13 +41,14 @@ To start using our Image Colorizer, simply follow these steps:
 - OpenCV
 - Windows/Linux
 
-You can install OpenCV and Streamlit using pip:
-```bash
-pip install opencv streamlit
-```
+   You can install OpenCV and Streamlit using pip:
+   ```bash
+   pip install opencv streamlit
+   ```
+   **Do not Skip any steps**
 
 1. **Clone the Repo**
-   To get started with the Image Colorizer project, you can clone the repository to your local machine using the following command:
+   To get started with Cryptic Canvas, you can clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/Aaron-Thomas-Blessen/CrypticCanvas.git
    ```
@@ -70,10 +71,10 @@ If you have the desire to publish this as a web app you need to upload all these
 
 ## Feedback
 
-We're constantly striving to improve our Image Colorizer to provide the best possible experience for our users. If you have any feedback, suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
+We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding our Image Colorizer, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding Cryptic Canvas, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
 
-Thank you for choosing our Image Colorizer. We hope you enjoy adding vibrant color to your images and videos!
+Thank you for choosing Cryptic Canvas. We hope you enjoy adding vibrant color to your images and videos!
