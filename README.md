@@ -40,7 +40,7 @@ To start using our Image Colorizer, simply follow these steps:
 - Streamlit
 - OpenCV
 - Windows/Linux
-- 
+
 You can install OpenCV and Streamlit using pip:
 ```bash
 pip install opencv streamlit
