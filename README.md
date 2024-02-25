@@ -1,32 +1,15 @@
-Clone the repo 
-
-Add models 
-
-streamlit account
-
-pip install opencv
-
-python 3.7
-
-pip install streamlit
-
-If you want to publish the web
-
-streamlit run main.py
-
-
 
 # CRYPTO CANVAS - The Ultimate Image Colorizer
 
-Welcome to the Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, our image colorizer has you covered.
+Welcome to the Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
 ## Introduction
 
-This README provides an overview of the features, usage instructions, and contact information for our Image Colorizer project. Read on to learn how you can easily colorize your images and videos with our intuitive platform.
+This README provides an overview of the features, usage instructions, and contact information for our project. Read on to learn how you can easily colorize your images and videos with our intuitive platform.
 
 ## Features
 
-Our Image Colorizer offers several convenient options for colorizing your content:
+Cryptic Canvas offers several convenient options for colorizing your content:
 
 1. **Upload Images:** Simply upload your black-and-white or grayscale images to our platform and watch them come to life with color.
 
@@ -38,7 +21,7 @@ Our Image Colorizer offers several convenient options for colorizing your conten
 
 5. **Link Videos:** Similar to linking images, you can also provide links to videos hosted online, and our colorizer will work its magic on them.
 
-6. **Live Video Colorization:** Take your colorization experience to the next level with our live video colorization feature. Simply point your camera at the scene you want to colorize, and watch as the colors pop on your device's screen.
+6. **Live Video Colorization:** Take your colorization experience to the next level with our live video colorization feature. This is mostly built for security cameras to show the video in color even at night.
 
 ## Getting Started
 
@@ -50,7 +33,18 @@ To start using our Image Colorizer, simply follow these steps:
 4. Sit back and watch as our advanced algorithms add stunning color to your content.
 5. Show your newly colorized images and videos with friends, family, or colleagues.
 
-## How to install it Yourself
+## How to Do It Yourself
+
+### Requirements
+- Python 3.7
+- Streamlit
+- OpenCV
+- Windows/Linux
+- 
+You can install OpenCV and Streamlit using pip:
+```bash
+pip install opencv streamlit
+```
 
 1. **Clone the Repo**
    To get started with the Image Colorizer project, you can clone the repository to your local machine using the following command:
@@ -59,7 +53,20 @@ To start using our Image Colorizer, simply follow these steps:
    ```
 2. **Add Models**
    Before running the application, make sure to add the required models to the appropriate directory within the project.
-   Download the models folder from this [Google Drive](https://drive.google.com/drive/folders/1At7IHpzXidguQj9mPQuqkVodwsBZAn-e?usp=sharing) link.
+   Download the 3 files from this [Google Drive](https://drive.google.com/drive/folders/1At7IHpzXidguQj9mPQuqkVodwsBZAn-e?usp=sharing) link and add it to a folder named 'models'.
+   Now add the models folder in all the folder that contains a main.py file.
+   
+3. **Streamlit Account**
+   If you want to publish the web version of the application, you'll need a Streamlit account. Sign up at [streamlit.io](https://streamlit.io/) to get started.
+
+4. **Getting Started**
+   Navigate to the folder in which the main.py file is found.
+   Open the terminal.
+   To run the Image Colorizer application locally, navigate to the project directory and execute the following command:
+   ```bash
+   streamlit run main.py
+   ```
+If you have the desire to publish this as a web app you need to upload all these files to your github and host it.
 
 ## Feedback
 
@@ -67,6 +74,6 @@ We're constantly striving to improve our Image Colorizer to provide the best pos
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding our Image Colorizer, please contact our support team at [support@imagecolorizer.com](mailto:support@imagecolorizer.com). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding our Image Colorizer, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
 
 Thank you for choosing our Image Colorizer. We hope you enjoy adding vibrant color to your images and videos!
