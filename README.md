@@ -1,5 +1,5 @@
 
-# CRYPTO CANVAS - The Ultimate Image Colorizer
+# CRYPTO CANVAS - The Ultimate Image/Video Colorizer
 
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
@@ -25,7 +25,7 @@ Cryptic Canvas offers several convenient options for colorizing your content:
 
 ## Getting Started
 
-To start using our Image Colorizer, simply follow these steps:
+To start using Cryptic Canvas, simply follow these steps:
 
 1. Visit our Website.
 2. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
@@ -63,7 +63,7 @@ To start using our Image Colorizer, simply follow these steps:
 4. **Getting Started**
    Navigate to the folder in which the main.py file is found.
    Open the terminal.
-   To run the Image Colorizer application locally, navigate to the project directory and execute the following command:
+   To run the Cryptic Canvas application locally, navigate to the project directory and execute the following command:
    ```bash
    streamlit run main.py
    ```
