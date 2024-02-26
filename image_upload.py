@@ -47,3 +47,15 @@ if uploaded_image is not None:
     if st.button('Colorize'):
         colorized_image = colorize_image(np.array(image))
         st.image(colorized_image, caption='Colorized Image', use_column_width=True)
+        
+st.markdown(
+    """
+    <style>
+        .reportview-container {
+            background: url('https://example.com/your-background-image.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
