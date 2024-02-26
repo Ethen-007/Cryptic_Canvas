@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* language=CSS */
 
 * {
@@ -121,3 +122,128 @@
 .wave1 .shape-fill {
   fill: #d36464;
 }
+=======
+/* language=CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #4e4a4a;
+}
+.intro-section {
+  position: relative;
+}
+.main-title {
+  font-family: "sora", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  /* margin: 1rem; */
+  text-align: center;
+  color: #fc5660;
+}
+
+.header {
+  /* font-size: 300px; */
+  color: #fc5660;
+  margin: 1rem;
+}
+
+.about-section {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.wtb-image {
+  margin-right: 1rem;
+}
+.para {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  margin: 1rem;
+  /* margin: 1rem; */
+  /* text-align: center; */
+  color: #f5d4d2;
+}
+
+.grouped {
+  display: flex;
+  justify-content: center;
+}
+
+.grp-name {
+  margin: 2rem;
+  padding-top: 2rem;
+}
+
+.dark-button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  height: 150px;
+  width: 200px;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.light-button {
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 10px 20px;
+  height: 150px;
+  width: 200px;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0.5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.made {
+  position: relative;
+}
+
+.wave {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  transform: rotate(180deg);
+}
+
+.wave svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 155px;
+}
+
+.wave .shape-fill {
+  fill: #d06b6b;
+}
+.wave1 {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  transform: rotate(180deg);
+}
+
+.wave1 svg {
+  position: relative;
+  display: block;
+  width: calc(200% + 0.3px);
+  height: 120px;
+}
+
+.wave1 .shape-fill {
+  fill: #d36464;
+}
+>>>>>>> 1d049df29f81f5398bdf93418936d78686c0ab5d
