@@ -53,7 +53,7 @@ To start using Cryptic Canvas, simply follow these steps:
    To get started with Cryptic Canvas, you can clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Aaron-Thomas-Blessen/CrypticCanvas.git
+   git clone git@github.com:Ethen-007/Cryptic_Canvas.git
    ```
 
 2. **Streamlit Account**
