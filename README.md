@@ -1,4 +1,3 @@
-
 # CRYPTIC CANVAS - The Ultimate Image/Video Colorizer
 
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
@@ -36,16 +35,19 @@ To start using Cryptic Canvas, simply follow these steps:
 ## How to Do It Yourself
 
 ### Requirements
+
 - Python 3.7
 - Streamlit
 - OpenCV
 - Windows/Linux
 
-   You can install OpenCV and Streamlit using pip:
-   ```bash
-   pip install opencv streamlit
-   ```
-   **Do not Skip any steps**
+  You can install OpenCV and Streamlit using pip:
+
+  ```bash
+  pip install opencv streamlit
+  ```
+
+  **Do not Skip any steps**
 
 1. **Clone the Repo**
    To get started with Cryptic Canvas, you can clone the repository to your local machine using the following command:
@@ -56,7 +58,6 @@ To start using Cryptic Canvas, simply follow these steps:
    Before running the application, make sure to add the required models to the appropriate directory within the project.
    Download the 3 files from this [Google Drive](https://drive.google.com/drive/folders/1At7IHpzXidguQj9mPQuqkVodwsBZAn-e?usp=sharing) link and add it to a folder named 'models'.
    Now add the models folder in all the folder that contains a main.py file.
-   
 3. **Streamlit Account**
    If you want to publish the web version of the application, you'll need a Streamlit account. Sign up at [streamlit.io](https://streamlit.io/) to get started.
 
@@ -67,7 +68,7 @@ To start using Cryptic Canvas, simply follow these steps:
    ```bash
    streamlit run main.py
    ```
-If you have the desire to publish this as a web app you need to upload all these files to your github and host it.
+   If you have the desire to publish this as a web app you need to upload all these files to your github and host it.
 
 ## Feedback
 
@@ -75,6 +76,6 @@ We're constantly striving to improve Cryptic Canvas to provide the best possible
 
 ## Contact Us
 
-If you have any questions, concerns, or inquiries regarding Cryptic Canvas, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
+If you have any questions, concerns, or inquiries regarding Cryptic Canvas, please contact us at [ethenbiju@gmail.com](mailto:ethenbiju@gmail.com) or connect with me at [LinkedIn](https://www.linkedin.com/in/ethenbiju/). We're here to assist you and ensure that your colorization experience is smooth and enjoyable.
 
 Thank you for choosing Cryptic Canvas. We hope you enjoy adding vibrant color to your images and videos!
