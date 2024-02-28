@@ -1,5 +1,9 @@
 # CRYPTIC CANVAS - The Ultimate Image/Video Colorizer
 
+![My Image](https://drive.google.com/uc?id=1CosZ0TIWUL-nWG9jP-1ZnVkx5IQVUe2v)
+
+[Demo Video](https://shorturl.at/hqBV5)
+
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
 ## Introduction
@@ -27,10 +31,11 @@ Cryptic Canvas offers several convenient options for colorizing your content:
 To start using Cryptic Canvas, simply follow these steps:
 
 1. Visit our Website.
-2. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
-3. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
-4. Sit back and watch as our advanced algorithms add stunning color to your content.
-5. Show your newly colorized images and videos with friends, family, or colleagues.
+2. Click on live Demo
+3. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
+4. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
+5. Sit back and watch as our advanced algorithms add stunning color to your content.
+6. Show your newly colorized images and videos with friends, family, or colleagues.
 
 ## How to Do It Yourself
 
@@ -49,7 +54,7 @@ To start using Cryptic Canvas, simply follow these steps:
 
   **Do not Skip any steps**
 
-1. **Clone the Repo**
+1. **Clone the Repo:**
    To get started with Cryptic Canvas, you can clone the repository to your local machine using the following command:
 
    ```bash
@@ -64,13 +69,13 @@ To start using Cryptic Canvas, simply follow these steps:
    Open the terminal.
    To run the Cryptic Canvas application locally, navigate to the project directory and execute the following command:
    ```bash
-   streamlit run main.py
+   streamlit run image_upload.py
    ```
    If you have the desire to publish this as a web app you need to upload all these files to your github and host it.
 
 ## Feedback
 
-We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
+We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, or suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
 
 ## Contact Us
 
