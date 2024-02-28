@@ -3,6 +3,8 @@
 
 ![My Image](https://drive.google.com/uc?id=1CosZ0TIWUL-nWG9jP-1ZnVkx5IQVUe2v)
 
+[Demo Video](https://drive.google.com/file/d/18SRwKCNDd6M_pewOTV-dXU-WS4er2ouT/view?usp=sharing)
+
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
 ## Introduction
@@ -25,15 +27,17 @@ Cryptic Canvas offers several convenient options for colorizing your content:
 
 6. **Live Video Colorization:** Take your colorization experience to the next level with our live video colorization feature. This is mostly built for security cameras to show the video in color even at night.
 
+
 ## Getting Started
 
 To start using Cryptic Canvas, simply follow these steps:
 
 1. Visit our Website.
-2. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
-3. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
-4. Sit back and watch as our advanced algorithms add stunning color to your content.
-5. Show your newly colorized images and videos with friends, family, or colleagues.
+2. Click on live Demo
+3. Choose the colorization option that best suits your needs: upload images, link images, live image colorization, upload videos, link videos, or live video colorization.
+4. Follow the prompts to upload or link your media, or activate your device's camera for live colorization.
+5. Sit back and watch as our advanced algorithms add stunning color to your content.
+6. Show your newly colorized images and videos with friends, family, or colleagues.
 
 ## How to Do It Yourself
 
@@ -59,10 +63,11 @@ To start using Cryptic Canvas, simply follow these steps:
 
 3. **Getting Started:**
    Navigate to the website folder and run index.html.
+   Then click on Live Demo
 
-4. **Run Locally(Can be Ignored):**
+5. **Run Locally:**
    To run the Cryptic Canvas application locally, navigate to the project directory
-   and execute the following commands:
+   and execute the following commands in separate Terminals:
    ```bash
    streamlit run image_upload.py
    ```
