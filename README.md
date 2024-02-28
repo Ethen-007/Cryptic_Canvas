@@ -1,6 +1,8 @@
 
 # CRYPTIC CANVAS - The Ultimate Image/Video Colorizer
 
+![My Image](https://drive.google.com/uc?id=1CosZ0TIWUL-nWG9jP-1ZnVkx5IQVUe2v)
+
 Welcome to our Image Colorizer project! Our tool allows you to effortlessly add vibrant color to your images and videos. Whether you want to bring old black-and-white photos to life or simply enhance the colors in your existing media, Cryptic Canvas has you covered.
 
 ## Introduction
