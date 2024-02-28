@@ -47,27 +47,42 @@ To start using Cryptic Canvas, simply follow these steps:
    ```
    **Do not Skip any steps**
 
-1. **Clone the Repo**
+1. **Clone the Repo:**
    To get started with Cryptic Canvas, you can clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/Aaron-Thomas-Blessen/CrypticCanvas.git
    ```
-2. **Add Models**
-   Before running the application, make sure to add the required models to the appropriate directory within the project.
-   Download the 3 files from this [Google Drive](https://drive.google.com/drive/folders/1At7IHpzXidguQj9mPQuqkVodwsBZAn-e?usp=sharing) link and add it to a folder named 'models'.
-   Now add the models folder in all the folder that contains a main.py file.
-   
-3. **Streamlit Account**
+2. **Streamlit Account:**
    If you want to publish the web version of the application, you'll need a Streamlit account. Sign up at [streamlit.io](https://streamlit.io/) to get started.
 
-4. **Getting Started**
-   Navigate to the folder in which the main.py file is found.
-   Open the terminal.
-   To run the Cryptic Canvas application locally, navigate to the project directory and execute the following command:
+3. **Getting Started:**
+   Navigate to the website folder and run index.html.
+
+4. **Run Locally(Can be Ignored):**
+   To run the Cryptic Canvas application locally, navigate to the project directory
+   and execute the following commands:
    ```bash
-   streamlit run main.py
+   streamlit run image_upload.py
    ```
-If you have the desire to publish this as a web app you need to upload all these files to your github and host it.
+   ```bash
+   streamlit run image_link.py
+   ```
+   ```bash
+   streamlit run image-live.py
+   ```
+   ```bash
+   streamlit run video_upload.py
+   ```
+   ```bash
+   streamlit run video_link.py
+   ```
+   ```bash
+   streamlit run video_live.py
+   ```
+   Copy the local network ID and paste it into new.html link addresses respectively.
+   - This increases the speed of colorization.
+     
+If you have the desire to publish this as a web app, then you need to upload all these files to your Git Hub and host it using streamlit for free.
 
 ## Feedback
 
