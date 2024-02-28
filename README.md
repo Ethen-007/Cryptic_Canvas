@@ -84,9 +84,27 @@ To start using Cryptic Canvas, simply follow these steps:
      
 If you have the desire to publish this as a web app, then you need to upload all these files to your Git Hub and host it using streamlit for free.
 
+## Adding large files to GitHub
+To add large files to the GitHub for free you need GIT LFS.
+
+The file "colorization_release_v2.caffemodel" has a 122 MB file size so you cannot directly push it to Git Hub.
+
+```bash
+git lfs install
+```
+```bash
+git lfs track "*.caffemodel"
+```
+```bash
+git add .
+```
+```bash
+git push -u origin main
+```
+
 ## Feedback
 
-We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
+We're constantly striving to improve Cryptic Canvas to provide the best possible experience for our users. If you have any feedback, or suggestions, or encounter any issues while using our platform, please don't hesitate to reach out to us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
 
 ## Contact Us
 
